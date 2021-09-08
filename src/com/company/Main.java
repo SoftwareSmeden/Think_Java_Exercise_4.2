@@ -3,13 +3,13 @@ package com.company;
 public class Main {
     // Exercise 4.2 (opg. 1 og 2)                     Program Steps:
     public static void main(String[] args) {               //1
-        zippo("rattle", 13);                    //2
+        zippo("rattle", 13);                               //2
     }                                                      //18
 
 
     public static void baffle(String blimp) {              //8
         System.out.println(blimp);                         //9
-        zippo("ping", -5);                      //10
+        zippo("ping", -5);                                 //10
     }                                                      //14
 
 
