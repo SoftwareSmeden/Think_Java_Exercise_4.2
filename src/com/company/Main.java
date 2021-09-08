@@ -1,7 +1,7 @@
 package com.company;
 
 public class Main {
-    // Exercise 4.2 (1 og 2)                               Steps:
+    // Exercise 4.2 (opg. 1 og 2)                     Program Steps:
     public static void main(String[] args) {               //1
         zippo("rattle", 13);                    //2
     }                                                      //18
@@ -24,10 +24,12 @@ public class Main {
     }                                                      //17
 }
 
-            // (3) Værdien af "Blimp", må være "Rattle".
+            // (Opg. 3)
+            // Værdien af "Blimp", må være "Rattle".
 
-            // (4) Output er:
-            // ik
+            // (Opg. 4)
+            // Output er:
+            //ik
             //rattle
             //ping zoop
             //boo-wa-ha-ha
