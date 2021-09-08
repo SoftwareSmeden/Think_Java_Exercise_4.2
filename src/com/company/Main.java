@@ -1,7 +1,7 @@
 package com.company;
 
 public class Main {
-    // Exercise 4.2 (1 / 2)                                Steps:
+    // Exercise 4.2 (1 og 2)                               Steps:
     public static void main(String[] args) {               //1
         zippo("rattle", 13);                    //2
     }                                                      //18
