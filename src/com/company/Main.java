@@ -22,7 +22,7 @@ public class Main {
             System.out.println("boo-wa-ha-ha");            //15
         }                                                  //16
     }                                                      //17
-}
+}                                                          //19
 
             // (Opg. 3)
             // Værdien af "Blimp", må være "Rattle".
